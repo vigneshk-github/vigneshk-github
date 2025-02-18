@@ -1,7 +1,13 @@
 <img src="imagevk.jpg" alt="GitHub Banner" width="100%"  height="50%" />
 
-# 💫 About Me:
-### Hi, I'm Vignesh Kamatam! 👋  <br><br>🚀 **I'm currently working on:**  <br>- Building scalable web applications using **Next.js, Node.js, and Prisma ORM**  <br>- Enhancing my expertise in **backend development, cloud computing, and DevOps**  <br><br>🤝 **I'm looking to collaborate on:**  <br>- Open-source projects related to **web development, cloud computing, and system design**  <br>- Scalable, real-time applications leveraging **Redis, Docker, and Kubernetes**  <br><br>❓ **I'm looking for help with:**  <br>- Optimizing **high-performance, distributed systems**  <br>- Advanced **DevOps practices and cloud-native architectures**  <br><br>📚 **I'm currently learning:**  <br>- **Three.js** for interactive 3D experiences in **Next.js**  <br>- **AWS, Docker, and Kubernetes** for deploying scalable applications  <br>- **Deepening my knowledge in Data Structures & Algorithms**  <br><br>💡 **Ask me about:**  <br>- **JavaScript, TypeScript, Next.js, Node.js, and AWS**  <br>- Building **high-performance, scalable web applications**  <br>- Optimizing **real-time chat and food-ordering platforms**  <br><br>😄 **Fun fact:**  <br>- I love **solving complex coding challenges**—over **190 problems solved on LeetCode!**  <br>- I enjoy **reverse engineering** and exploring **Kali Linux for cybersecurity**  <br>
+# 💫 About Me  
+### Hi, I'm Vignesh Kamatam! 👋  <br><br>  
+🚀 **Passionate Full-Stack Developer** skilled in **Next.js, Node.js, Prisma, and AWS**, building **scalable, real-time applications**.  <br>  
+💻 Exploring **cloud computing, DevOps, and system design** to optimize **high-performance distributed systems**.  <br>  
+⚡ Love solving **DSA challenges**—solved **190+ problems on LeetCode** and enjoy **reverse engineering**.  <br>  
+📚 Currently learning **Three.js, Docker, and Kubernetes** for **scalable and interactive web applications**.  <br>  
+🤝 Open to **collaborations** on **open-source projects, cloud computing, and innovative web solutions**.  <br>  
+
 
 
 ## 🌐 Socials:
